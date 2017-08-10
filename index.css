@@ -1,0 +1,16 @@
+body {
+  background: black;
+  text-align: center;
+}
+
+.first-group {
+  color: silver;
+}
+
+.second-group {
+  color: gold;
+}
+
+#important {
+  font-size: 50px;
+}
